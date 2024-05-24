@@ -88,7 +88,8 @@
 			<div class="container">
 				<div class="row d-flex align-items-stretch no-gutters">
 					<div class="col-md-6 p-4 p-md-5 order-md-last bg-light">
-						<form action="#">
+						<form action="https://api.web3forms.com/submit" method="POST">
+              <input type="hidden" name="access_key" value="4e4b3f29-927e-4781-a55a-2e8973e1931d">
               <div class="form-group">
                 <input type="text" class="form-control" placeholder="Your Name">
               </div>
@@ -102,9 +103,20 @@
                 <textarea name="" id="" cols="30" rows="7" class="form-control" placeholder="Message"></textarea>
               </div>
               <div class="form-group">
-                <input type="submit" value="Send Message" class="btn btn-primary py-3 px-5">
+                <input type="submit" class="btn btn-primary py-3 px-5">
               </div>
             </form>
+            <!--                    ---------- -->
+            <!-- <form action="https://api.web3forms.com/submit" method="POST">
+
+              <input type="hidden" name="access_key" value="4e4b3f29-927e-4781-a55a-2e8973e1931d">
+          
+              <input type="text" name="name" required>
+              <input type="email" name="email" required>
+              <textarea name="message" required></textarea>
+              <button type="submit">Submit Form</button>
+          
+          </form> -->
 					</div>
 					<div class="col-md-6 d-flex align-items-stretch">
 						<div id="map"></div>
