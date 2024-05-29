@@ -5,7 +5,7 @@
  * Docs: http://bootstrap-datepicker.readthedocs.org/
  * Forked from http://www.eyecon.ro/bootstrap-datepicker
  * =========================================================
- * Started by Stefan Petre; improvements by Andrew Rowls + contributors
+ * Started by Stefan Petre; improvements by AnDrew Rowls + contributors
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -106,7 +106,7 @@
 			this.picker.addClass('datepicker-inline').appendTo(this.element);
 		}
 		else {
-			this.picker.addClass('datepicker-dropdown dropdown-menu');
+			this.picker.addClass('datepicker-Dropdown Dropdown-menu');
 		}
 
 		if (this.o.rtl){

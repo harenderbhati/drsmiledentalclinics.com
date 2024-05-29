@@ -2,7 +2,7 @@
  * Datepicker for Bootstrap
  *
  * Copyright 2012 Stefan Petre
- * Improvements by Andrew Rowls
+ * Improvements by AnDrew Rowls
  * Licensed under the Apache License v2.0
  * http://www.apache.org/licenses/LICENSE-2.0
  *
@@ -26,11 +26,11 @@
 .datepicker.datepicker-rtl table tr td span {
   float: right;
 }
-.datepicker-dropdown {
+.datepicker-Dropdown {
   top: 0;
   left: 0;
 }
-.datepicker-dropdown:before {
+.datepicker-Dropdown:before {
   content: '';
   display: inline-block;
   border-left: 7px solid transparent;
@@ -40,7 +40,7 @@
   border-bottom-color: rgba(0, 0, 0, 0.2);
   position: absolute;
 }
-.datepicker-dropdown:after {
+.datepicker-Dropdown:after {
   content: '';
   display: inline-block;
   border-left: 6px solid transparent;
@@ -49,30 +49,30 @@
   border-top: 0;
   position: absolute;
 }
-.datepicker-dropdown.datepicker-orient-left:before {
+.datepicker-Dropdown.datepicker-orient-left:before {
   left: 6px;
 }
-.datepicker-dropdown.datepicker-orient-left:after {
+.datepicker-Dropdown.datepicker-orient-left:after {
   left: 7px;
 }
-.datepicker-dropdown.datepicker-orient-right:before {
+.datepicker-Dropdown.datepicker-orient-right:before {
   right: 6px;
 }
-.datepicker-dropdown.datepicker-orient-right:after {
+.datepicker-Dropdown.datepicker-orient-right:after {
   right: 7px;
 }
-.datepicker-dropdown.datepicker-orient-top:before {
+.datepicker-Dropdown.datepicker-orient-top:before {
   top: -7px;
 }
-.datepicker-dropdown.datepicker-orient-top:after {
+.datepicker-Dropdown.datepicker-orient-top:after {
   top: -6px;
 }
-.datepicker-dropdown.datepicker-orient-bottom:before {
+.datepicker-Dropdown.datepicker-orient-bottom:before {
   bottom: -7px;
   border-bottom: 0;
   border-top: 7px solid #999;
 }
-.datepicker-dropdown.datepicker-orient-bottom:after {
+.datepicker-Dropdown.datepicker-orient-bottom:after {
   bottom: -6px;
   border-bottom: 0;
   border-top: 6px solid #ffffff;
@@ -478,7 +478,7 @@
   margin-left: -5px;
   margin-right: -5px;
 }
-.datepicker.dropdown-menu {
+.datepicker.Dropdown-menu {
   position: absolute;
   top: 100%;
   left: 0;
@@ -506,7 +506,7 @@
   font-size: 13px;
   line-height: 20px;
 }
-.datepicker.dropdown-menu th,
-.datepicker.dropdown-menu td {
+.datepicker.Dropdown-menu th,
+.datepicker.Dropdown-menu td {
   padding: 4px 5px;
 }

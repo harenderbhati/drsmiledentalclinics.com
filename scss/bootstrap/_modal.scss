@@ -81,18 +81,18 @@
 }
 
 // Modal background
-.modal-backdrop {
+.modal-backDrop {
   position: fixed;
   top: 0;
   left: 0;
-  z-index: $zindex-modal-backdrop;
+  z-index: $zindex-modal-backDrop;
   width: 100vw;
   height: 100vh;
-  background-color: $modal-backdrop-bg;
+  background-color: $modal-backDrop-bg;
 
-  // Fade for backdrop
+  // Fade for backDrop
   &.fade { opacity: 0; }
-  &.show { opacity: $modal-backdrop-opacity; }
+  &.show { opacity: $modal-backDrop-opacity; }
 }
 
 // Modal header

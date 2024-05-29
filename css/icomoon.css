@@ -1149,7 +1149,7 @@
 .icon-youtube-play:before {
   content: "\f16a";
 }
-.icon-dropbox:before {
+.icon-Dropbox:before {
   content: "\f16b";
 }
 .icon-stack-overflow:before {
@@ -1194,13 +1194,13 @@
 .icon-windows:before {
   content: "\f17a";
 }
-.icon-android:before {
+.icon-anDroid:before {
   content: "\f17b";
 }
 .icon-linux:before {
   content: "\f17c";
 }
-.icon-dribbble:before {
+.icon-Dribbble:before {
   content: "\f17d";
 }
 .icon-skype:before {
@@ -1341,7 +1341,7 @@
 .icon-pied-piper-alt:before {
   content: "\f1a8";
 }
-.icon-drupal:before {
+.icon-Drupal:before {
   content: "\f1a9";
 }
 .icon-joomla:before {
@@ -1632,7 +1632,7 @@
 .icon-at:before {
   content: "\f1fa";
 }
-.icon-eyedropper:before {
+.icon-eyeDropper:before {
   content: "\f1fb";
 }
 .icon-paint-brush:before {
@@ -2229,19 +2229,19 @@
 .icon-linode:before {
   content: "\f2b8";
 }
-.icon-address-book:before {
+.icon-adDress-book:before {
   content: "\f2b9";
 }
-.icon-address-book-o:before {
+.icon-adDress-book-o:before {
   content: "\f2ba";
 }
-.icon-address-card:before {
+.icon-adDress-card:before {
   content: "\f2bb";
 }
 .icon-vcard:before {
   content: "\f2bb";
 }
-.icon-address-card-o:before {
+.icon-adDress-card-o:before {
   content: "\f2bc";
 }
 .icon-vcard-o:before {
@@ -2259,13 +2259,13 @@
 .icon-id-badge:before {
   content: "\f2c1";
 }
-.icon-drivers-license:before {
+.icon-Drivers-license:before {
   content: "\f2c2";
 }
 .icon-id-card:before {
   content: "\f2c2";
 }
-.icon-drivers-license-o:before {
+.icon-Drivers-license-o:before {
   content: "\f2c3";
 }
 .icon-id-card-o:before {
@@ -2505,7 +2505,7 @@
 .icon-all_out:before {
   content: "\e90b";
 }
-.icon-android2:before {
+.icon-anDroid2:before {
   content: "\e859";
 }
 .icon-announcement:before {
@@ -2523,13 +2523,13 @@
 .icon-arrow_downward:before {
   content: "\e5db";
 }
-.icon-arrow_drop_down:before {
+.icon-arrow_Drop_down:before {
   content: "\e5c5";
 }
-.icon-arrow_drop_down_circle:before {
+.icon-arrow_Drop_down_circle:before {
   content: "\e5c6";
 }
-.icon-arrow_drop_up:before {
+.icon-arrow_Drop_up:before {
   content: "\e5c7";
 }
 .icon-arrow_forward:before {
@@ -3090,10 +3090,10 @@
 .icon-donut_small:before {
   content: "\e918";
 }
-.icon-drafts:before {
+.icon-Drafts:before {
   content: "\e151";
 }
-.icon-drag_handle:before {
+.icon-Drag_handle:before {
   content: "\e25d";
 }
 .icon-time_to_leave:before {
@@ -3264,7 +3264,7 @@
 .icon-filter_center_focus:before {
   content: "\e3dc";
 }
-.icon-filter_drama:before {
+.icon-filter_Drama:before {
   content: "\e3dd";
 }
 .icon-filter_frames:before {
@@ -3498,16 +3498,16 @@
 .icon-hd:before {
   content: "\e052";
 }
-.icon-hdr_off:before {
+.icon-hDr_off:before {
   content: "\e3ed";
 }
-.icon-hdr_on:before {
+.icon-hDr_on:before {
   content: "\e3ee";
 }
-.icon-hdr_strong:before {
+.icon-hDr_strong:before {
   content: "\e3f1";
 }
-.icon-hdr_weak:before {
+.icon-hDr_weak:before {
   content: "\e3f2";
 }
 .icon-headset:before {
@@ -3594,7 +3594,7 @@
 .icon-insert_comment:before {
   content: "\e24c";
 }
-.icon-insert_drive_file:before {
+.icon-insert_Drive_file:before {
   content: "\e24d";
 }
 .icon-tag_faces:before {
@@ -3741,7 +3741,7 @@
 .icon-restaurant_menu:before {
   content: "\e561";
 }
-.icon-local_drink:before {
+.icon-local_Drink:before {
   content: "\e544";
 }
 .icon-local_florist:before {
@@ -3756,7 +3756,7 @@
 .icon-local_hospital:before {
   content: "\e548";
 }
-.icon-local_laundry_service:before {
+.icon-local_launDry_service:before {
   content: "\e54a";
 }
 .icon-local_library:before {
@@ -4071,7 +4071,7 @@
 .icon-pets:before {
   content: "\e91d";
 }
-.icon-phone_android:before {
+.icon-phone_anDroid:before {
   content: "\e324";
 }
 .icon-phone_bluetooth_speaker:before {
@@ -4140,7 +4140,7 @@
 .icon-pie_chart_outlined:before {
   content: "\e6c5";
 }
-.icon-pin_drop:before {
+.icon-pin_Drop:before {
   content: "\e55e";
 }
 .icon-play_arrow:before {
@@ -4419,7 +4419,7 @@
 .icon-settings_remote:before {
   content: "\e8c7";
 }
-.icon-settings_system_daydream:before {
+.icon-settings_system_dayDream:before {
   content: "\e1c3";
 }
 .icon-settings_voice:before {
@@ -4629,7 +4629,7 @@
 .icon-tablet2:before {
   content: "\e32f";
 }
-.icon-tablet_android:before {
+.icon-tablet_anDroid:before {
   content: "\e330";
 }
 .icon-tablet_mac:before {
