@@ -8216,15 +8216,16 @@ h1, h2, h3, h4, h5,
 .navbar-brand {
   font-weight: 700;
   font-size: 34px;
+  font-family: 'Gill Sans';
   padding: 0;
   line-height: 1;
-  color: #000000; }
+color: #c57e13; }
   .navbar-brand span {
     font-size: 14px;
     font-weight: 500;
     display: block;
-    color: rgba(0, 0, 0, 0.2);
-    text-align: left; }
+    color: #c57e13;
+     }
 
 .hero-wrap {
   width: 100%;
