@@ -183,7 +183,7 @@
                 ></div>
                 <div class="text pl-3">
                   <h3 class="mb-0">Dr. I. Ali</h3>
-                  <span class="position">CEO, Founder</span>
+                  <!-- <span class="position">CEO, Founder</span> -->
                 </div>
               </div>
             </div>
@@ -205,13 +205,16 @@
           <div class="col-md-6 d-flex align-items-stretch">
             <div class="consultation consul w-100 px-4 px-md-5">
               <div class="text-center">
-                <h3 class="mb-4">Free Consultation</h3>
+                <h3 class="mb-4">Sunday On Appointment, Book an Appointment.</h3>
               </div>
-              <form action="#" class="appointment-form">
+              <!-- <form action="#" class="appointment-form"> -->
+                <form action="https://api.web3forms.com/submit" class="appointment-form" method="POST">
+                  <input type="hidden" name="access_key" value="4e4b3f29-927e-4781-a55a-2e8973e1931d">
                 <div class="row">
                   <div class="col-md-12 col-lg-6 col-xl-4">
                     <div class="form-group">
                       <input
+                        name="name"
                         type="text"
                         class="form-control"
                         placeholder="First Name"
@@ -222,12 +225,23 @@
                     <div class="form-group">
                       <input
                         type="text"
+                        name="last_name"
                         class="form-control"
                         placeholder="Last Name"
                       />
                     </div>
                   </div>
                   <div class="col-md-12 col-lg-6 col-xl-4">
+                    <div class="form-group">
+                      <input
+                        type="text"
+                        name="email"
+                        class="form-control"
+                        placeholder="Email"
+                      />
+                    </div>
+                  </div>
+                  <!-- <div class="col-md-12 col-lg-6 col-xl-4">
                     <div class="form-group">
                       <div class="form-field">
                         <div class="select-wrap">
@@ -245,7 +259,7 @@
                         </div>
                       </div>
                     </div>
-                  </div>
+                  </div> -->
                   <div class="col-md-12 col-lg-6 col-xl-4">
                     <div class="form-group">
                       <div class="input-wrap">
@@ -268,6 +282,7 @@
                         </div>
                         <input
                           type="text"
+                          name="time"
                           class="form-control appointment_time"
                           placeholder="Time"
                         />
@@ -278,6 +293,7 @@
                     <div class="form-group">
                       <input
                         type="submit"
+                        name="submit_button"
                         value="Appointment"
                         class="btn btn-secondary py-2 px-4"
                       />
@@ -609,7 +625,7 @@
               <div class="img-wrap d-flex align-items-stretch">
                 <div
                   class="img align-self-stretch"
-                  style="background-image: url(images/d2.jpg)"
+                  style="background-image: url(images/indianDentist.jpg)"
                 ></div>
               </div>
               <div class="text pt-3 text-center">
